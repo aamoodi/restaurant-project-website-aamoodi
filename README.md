@@ -1,3 +1,7 @@
+Name : Ayman Amoodi
+Net Id : UE3673
+email : aamoodi@horizon.csueastbay.edu
+
 # Student Static Restaurant Website Project
 
 This *README* file will be something that you will eventually use to communicate with the teacher and grader. For now I'm just including the project and assignment rough draft information.
